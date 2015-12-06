@@ -1,0 +1,2 @@
+# bashtemplate
+bash scripts template
